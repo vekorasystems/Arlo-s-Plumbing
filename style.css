@@ -1,0 +1,7 @@
+body{font-family:Arial;margin:0}
+nav{display:flex;justify-content:space-between;padding:15px;background:#111;color:#fff}
+nav a{color:#fff;margin:0 10px;text-decoration:none}
+header{padding:80px;text-align:center;background:#0077cc;color:#fff}
+.btn{background:#fff;color:#0077cc;padding:10px 20px;text-decoration:none}
+.grid{display:flex;gap:20px;padding:20px}
+.card{background:#f4f4f4;padding:20px;border-radius:10px}
